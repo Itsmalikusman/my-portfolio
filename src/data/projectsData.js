@@ -5,8 +5,8 @@ import Advice from "./../assets/portfolioImages/advice.jpg";
 import Page from "./../assets/portfolioImages/intropage.jpg";
 // import AWS from "./../assets/portfolioImages/s3.PNG";
 import Todo from "./../assets/portfolioImages/todo.jpg"
-import first from "./../assets/portfolioImages/first.jpg"
-import second from "./../assets/portfolioImages/second.jpg"
+import first from "./../assets/portfolioImages/potolo.png"
+import second from "./../assets/portfolioImages/xo black.jpg"
 
 // in progress projects
 
@@ -17,23 +17,22 @@ const ProjectsData = [
   {
     id: "app",
     img: first,
-    name: "Notification FCM",
+    name: "Potolo",
     stack: ["< HTML-5 />", "< Bootstrap v5 />", "< CSS/>", "< JS/>"],
-    live: "/",
-    source: "https://github.com/Umama-Abbasi",
+    live: "https://potololite.com/",
+    source: "https://github.com/Itsmalikusman",
     description:
-     "Seamless Integration: Setting up Firebase in Flutter is straightforward—just a few steps, and you're ready to go.🚀 Real-Time Database: Firebase Firestore provides real-time data syncing, perfect for apps that need up-to-date info instantly.📱 Cross-Platform Compatibility: Whether it's iOS or Android, Firebase works seamlessly across both platforms, making development easier."
-      ,
+     "I developed the responsive front-end for Potolo, a platform offering services for various businesses like restaurants, shops, and groceries. The project featured a multi-level dropdown with custom icons to enhance user experience, along with a responsive design that made business pages adaptable across devices for seamless browsing. The user-friendly interface was designed to ensure a clean and accessible experience on both mobile and desktop. Technologies used include HTML, CSS, JavaScript, and Bootstrap.",
   },
   {
     id: "app",
     img: second,
-    name: "One-Stop Shop",
+    name: "Xo Black",
     stack: ["< HTML-5 />", "< Bootstrap v5 />", "< CSS/>", "< JS/>"],
     live: "/",
-    source: "https://github.com/Umama-Abbasi",
+    source: "https://github.com/Itsmalikusman",
     description:
-     "✅ Seamless Integration: Setting up Firebase in Flutter is straightforward—just a few steps, and you're ready to go.🚀 Real-Time Database: Firebase Firestore provides real-time data syncing, perfect for apps that need up-to-date info instantly.📱 Cross-Platform Compatibility: Whether it's iOS or Android, Firebase works seamlessly across both platforms, making development easier."
+     "XO Black is a full-featured social application designed to bring communities together through seamless interaction and services. It includes essential social media features such as chat, quickies, and a timeline to share moments. Beyond social networking, XO Black connects users to local services like events, eateries, shops, barbers, and influencers. With a modern and intuitive design, the platform caters to users seeking both personal connections and professional opportunities. It offers a personalized experience, ensuring users find deals, friends, and trends tailored to their preferences. XO Black is a one-stop solution for staying connected and exploring new possibilities."
       ,
   }
 

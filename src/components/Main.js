@@ -1,6 +1,6 @@
 import React from "react";
 // import Typed from 'react-typed';
-import myImage from "./../assets/main.jpg";
+import myImage from "./../assets/my-image.png";
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import Typewriter from "./Typewriter";
 
@@ -19,7 +19,8 @@ function Main() {
             I'm
             <span className="before:block mx-4 mb-6 mt-4 before:absolute before:-inset-2 before:-skew-y-[3deg] before:bg-[#ec6e59;] relative inline-block">
               <span className="relative text-[#fffffff0] dark:text-[#20262E]">
-              Umama Abbasi</span>
+                M.Usman
+              </span>
             </span>
           </blockquote>
           <div className="h-10 mt-4">
@@ -27,13 +28,15 @@ function Main() {
           </div>
           <p className="dark:text-[#ccc] text-justify leading-loose pt-5 font-[400] mt-[-.8rem] text-custom-18 sm:text-[1rem] w-[90%] md:w-[95%] tm:w-full sm:w-full sm:mt-0">
             <strong>
-            Software Engineer | Flutter Developer | Dart | Firebase | API Integration | Android | iOS 
+              An experienced Front-End Developer | Team Lead | JavaScript |
+              React | HTML | CSS | Git | Responsive Design | Web Development.
             </strong>
-            <i>
-              {/* <strong> Internee at Sky Coaching, Islamabad</strong> */}
-            </i>
+            <i>{/* <strong> Internee at Sky Coaching, Islamabad</strong> */}</i>
             <br />
-            Passionate and dedicated Software Engineer with a recent Bachelor's degree in Software Engineering. Experienced in developing robust and user-friendly applications with a strong foundation in programming, problem-solving, and software development life cycles. Proficient in various programming languages and frameworks, including Flutter. 
+            "Front-End Developer with over one year of professional experience
+            and expertise in leading teams. Skilled in creating responsive,
+            user-friendly interfaces and optimizing code performance using
+            JavaScript, React, HTML, and CSS."
           </p>
         </div>
         <div className="flex py-[10px] tm:mt-[40px] items-start mt-[-30px] tm:pr-0 sm:pr-0 sm:justify-between sm:flex-col">
@@ -41,10 +44,10 @@ function Main() {
             <div className="h-full justify-end flex items-center sm:justify-center">
               <img
                 src={myImage}
-                width={500}
-                height={500}
+                width={700}
+                height={700}
                 alt="main"
-                className=" rounded-lg mr-32 mt-16 h-[80%] min-h-[100px] min-w-[100px] tm:h-[36px] tm:mt-[200px] sm:min-h-[100px] sm:min-w-[100px] sm:ml-[30px]"
+                className=" rounded-lg mt-16 h-[80%] min-h-[100px] min-w-[100px] tm:h-[36px] tm:mt-[200px] sm:min-h-[100px] sm:min-w-[100px] sm:ml-[30px]"
               />
             </div>
           </div>
@@ -53,14 +56,14 @@ function Main() {
           <div className="flex flex-row sm:flex-col gap-4">
             <a
               rel="noreferrer"
-              href="https://www.linkedin.com/in/umama-abbasi-0307b2246/"
+              href="https://www.linkedin.com/in/muhammad-usman-67a4931a0/"
               target="_blank"
             >
               <AiFillLinkedin size={40} className="cursor-pointer" />
             </a>
             <a
               rel="noreferrer"
-              href="https://github.com/Umama-Abbasi/"
+              href="https://github.com/Itsmalikusman"
               target="_blank"
             >
               <AiFillGithub size={40} className="cursor-pointer" />

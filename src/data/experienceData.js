@@ -2,17 +2,17 @@ const expData = [
    
     {
       id: "1",
-      org: "SkyPulse Solution",
-      title: "Flutter  Developer",
-      date: "1 Aug 2024 ",
-      description:  "A passionate Flutter developer with expertise in building cross-platform mobile applications for iOS and Android. I hold a Flutter Development Certification from XYZ Institute, completed in [Month, Year], and gained hands-on experience working at ABC Software House. My skills focus on developing responsive, high-performance apps, integrating third-party APIs, and ensuring seamless user experiences across devices."
+      org: "Alright Tech",
+      title: "Team Lead",
+      date: "Nov 2023 - Present",
+      description:  "Currently leading the front-end team, overseeing project development, mentoring team members, and ensuring the delivery of high-quality, responsive web solutions. Specializes in innovative design and efficient workflows to meet business objectives."
     },
     {
       id: "1",
-      org: "SkyPulse Solution",
-      title: "Wordpress Developer",
-      date: "Jun 2023 - Jul 2023 ",
-      description:  "A skilled WordPress developer with expertise in customizing themes, developing plugins, and optimizing websites for performance. I hold a WordPress Development Certification from XYZ Institute, completed in [Month, Year], and gained hands-on experience working at ABC Software House. My proficiency includes creating responsive, user-friendly websites, integrating third-party APIs, and ensuring SEO best practices. "
+      org: "Alright Tech",
+      title: "Front-End Developer",
+      date: "Jan 2023 - Oct 2023",
+      description:  "Worked as a Front-End Developer, contributing to the design, development, and optimization of responsive web applications. Gained expertise in creating user-friendly interfaces, collaborating with cross-functional teams, and ensuring seamless integration of features. Successfully delivered multiple projects within tight deadlines while maintaining high-quality standards."
     },
     
 ];
